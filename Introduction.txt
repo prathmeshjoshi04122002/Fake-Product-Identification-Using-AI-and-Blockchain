@@ -1,0 +1,22 @@
+The global development of a product or technology always comes with risk factors such as
+counterfeiting and duplication, which can affect the company's name, company revenue, and
+customer health. There are so many products that exist in the supply chain. To ensure that the
+product is real or fake. Because of counterfeit or fake products manufacturers facing the biggest
+problem and huge losses. To find the genuineness of the product we can use blockchain
+technology.
+Blockchain is an arrangement of recording information that makes it troublesome or hard to
+change, hack, or cheat the framework. A blockchain is essentially a computerized record of
+transactions that is duplicated and distributed across the entire network of PC systems on the
+blockchain. Each block in the chain contains multiple transactions, and every time a new
+transaction occurs on the blockchain, a record of that transaction is added to every participant’s
+record. The decentralized database managed by the number of participants is known as
+Distributed Ledger Technology (DLT). Blockchain is a type of DLT in which transactions are
+recorded with an immutable cryptographic signature called a hash.
+Blockchain technology helps to solve the problem of counterfeiting a product. Blockchain
+technology is more secure. Once the product is stored on the network hash code is generated of
+that product and it is possible to maintain all transaction records of the product and its current
+owner as a chain will be created for that product transactions. All the transaction records will be
+stored in the form of blocks in the blockchain. In the proposed system we are assigning a
+generated QR code to a particular product and the end customer can scan that QR code to get all
+information about that product. After scanning the QR code we can identify that the product is
+real or fake.
