@@ -1,0 +1,29 @@
+Description of each component
+
+The system architecture of the Fake Product Identification project is designed to provide a secure
+and scalable platform for managing assets. The architecture consists of several layers, each with a
+specific set of functions and technologies. Here is an overview of the system architecture:
+
+1. Identity management system: Identity management system is responsible for managing the
+identity of users on the Fake Product Identification system. It ensures that users are verified and
+authenticated before accessing the system.
+
+2. Application Layer: The application layer is the backend of the Fake Product Identification
+system, which handles user requests and performs the necessary business logic. The application
+layer is built using Node.js and interacts with the Ethereum blockchain and IPFS via the Web3.js
+and IPFS APIs.
+
+3. Smart Contract Layer: The smart contract layer is the layer that handles the smart contracts
+on the Ethereum blockchain. The smart contracts are written in Solidity and are responsible for
+executing the business logic of the Fake Product Identification system platform, such as managing
+digital assets, enforcing security, and enforcing business rules.
+
+4. Blockchain Layer: The blockchain layer is the underlying layer of the Fake Product
+Identification system platform, which provides a secure and decentralised platform for managing
+digital assets. The blockchain layer is built on the Ethereum blockchain, which provides a reliable
+and secure way to store and manage digital assets.
+
+5. Decentralised Storage Layer: The decentralised storage layer is the layer that handles the
+storage of files on the IPFS network. IPFS provides a secure and decentralised way to store and
+access files on the Fake Product Identification system platform, without relying on centralised
+servers
