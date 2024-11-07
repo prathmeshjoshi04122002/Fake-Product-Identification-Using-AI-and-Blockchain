@@ -1,0 +1,24 @@
+The proposed system really helps the retail market, manufacturers, and consumers from
+counterfeiting products but the system failed when a QR code is taken from a genuine product and
+given to a fake product then the product which is sold first become genuine it does not matter it is
+a genuine product or fake product but another product is treated as a fake product. Also storing the
+supply chain of every product require a huge amount of memory which is going to make this
+system expensive. The future work is to implement this model and try to resolve the limitation
+such as embedding some material in the product so that when a person tries to take the QR code,
+the chip or something will send the signal.
+1. Integration with Decentralised Exchanges: Decentralised exchanges (DEXs) are becoming
+increasingly popular, and integrating this system with DEXs could provide users with a seamless
+and secure way to trade digital assets.
+2. Improved Security Features: While the Fake Product System is already designed to be secure,
+there is always room for improvement. In the future, the project could be improved with additional
+security features, such as multi-factor authentication, biometric authentication, and hardware
+wallet support.
+3. Enhanced User Experience: The user experience of the Fake Product System can be further
+improved by adding more features and improving the existing ones. For example, adding a more
+intuitive interface, more advanced trading features, and better integration with other applications.
+4. Decentralized Identity Management: As the use of blockchain technology expands, there will
+be a growing need for decentralized identity management systems. The Fake Product System
+could be expanded to include a decentralized identity management system, which would provide
+users with greater control over their digital identities. The future work of Fake Product System is
+focused on expanding the functionality and improving the user experience of the platform, while
+maintaining the highest levels of security and decentralization
